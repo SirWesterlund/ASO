@@ -1,0 +1,29 @@
+Format: 1.8
+Date: Mon, 09 Oct 2023 18:00:31 +0200
+Source: bot-tool
+Binary: bot-tool
+Architecture: source all
+Version: 2023.10.10~mantic
+Distribution: mantic
+Urgency: high
+Maintainer: David Tronchoni <tic@ieslasenia.org>
+Changed-By: David Tronchoni <tic@ieslasenia.org>
+Description:
+ bot-tool   - Bot de Telegram
+Changes:
+ bot-tool (2023.10.10~mantic) mantic; urgency=high
+Checksums-Sha1:
+ f383649119ac4d0ecf9401285ff7f0416b158f48 564 bot-tool_2023.10.10~mantic.dsc
+ a89485d35715046611b3ade4c06aa6f7fee3b409 4507 bot-tool_2023.10.10~mantic.tar.gz
+ 88b34d4a5fa194bd37de590e44e4b978f7990496 4920 bot-tool_2023.10.10~mantic_all.deb
+ 2cdc5ea9414b421d21f1e3553c83628cf2146528 5556 bot-tool_2023.10.10~mantic_amd64.buildinfo
+Checksums-Sha256:
+ 8d9b206e6a308ef7063af322a97e0162775e3ede446111d11e63704946aedf43 564 bot-tool_2023.10.10~mantic.dsc
+ 91ca8c9e7f21be8393d995fc376ff419b75bb28527c25ca1c4910aef2cc8df7d 4507 bot-tool_2023.10.10~mantic.tar.gz
+ 418b9b871b3991ca10d943a5ee58d4af09b03af27b9de2d920c3b518c17dfd86 4920 bot-tool_2023.10.10~mantic_all.deb
+ 44d08f61fd819b010e8bd069f21b418074cf33823e0a12156e718a57cedd11e3 5556 bot-tool_2023.10.10~mantic_amd64.buildinfo
+Files:
+ 2ebca8cee08bce6eb5415154ce08e4f1 564 metapackages optional bot-tool_2023.10.10~mantic.dsc
+ a553b61bde348808af84793c789d7896 4507 metapackages optional bot-tool_2023.10.10~mantic.tar.gz
+ 17dd815a959f3f56b8ed0d17a54ac07e 4920 metapackages optional bot-tool_2023.10.10~mantic_all.deb
+ 97706ae123b2b95d4aeb52340c1f8bcd 5556 metapackages optional bot-tool_2023.10.10~mantic_amd64.buildinfo
